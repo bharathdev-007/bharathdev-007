@@ -3,7 +3,6 @@
 🌟 **About Me**
 - 🎓 Pursuing a Master's in Computer Science at SLU (Graduating May 2025).
 - 🚀 Passionate about Software Development, specializing in **Java Spring Boot**, **AWS**, and **Enterprise Software Technologies**.
-- 🎯 My current goal: Secure a **Software developer role** .
 - 🌱 Constantly learning: Exploring **AWS**, **SpringBoot**, and **Machine Learning** in depth.
 
 ---
